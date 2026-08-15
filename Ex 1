@@ -1,4 +1,4 @@
-      ARRAY IMPLEMENTATION OF LIST
+ARRAY IMPLEMENTATION OF LIST
 
 #include <stdio.h>
 #include <conio.h>
